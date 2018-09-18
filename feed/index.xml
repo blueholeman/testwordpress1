@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>testwordpress1</title>
+	<atom:link href="/https://blueholeman.github.io/testwordpress1/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://blueholeman.github.io/testwordpress1</link>
+	<description>또다른 워드프레스 사이트</description>
+	<lastBuildDate>Tue, 18 Sep 2018 14:12:07 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>안녕하세요!</title>
+		<link>/https://blueholeman.github.io/testwordpress1/2018/09/18/hello-world/</link>
+		<comments>/https://blueholeman.github.io/testwordpress1/2018/09/18/hello-world/#comments</comments>
+		<pubDate>Tue, 18 Sep 2018 14:12:07 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[미분류]]></category>
+
+		<guid isPermaLink="false">/https://blueholeman.github.io/testwordpress1/?p=1</guid>
+		<description><![CDATA[워드프레스에 오신 것을 환영합니다. 이것은 첫번째 글입니다. 이 글을 고치거나 지운 후에 블로깅을 시작하세요!]]></description>
+				<content:encoded><![CDATA[<p>워드프레스에 오신 것을 환영합니다. 이것은 첫번째 글입니다. 이 글을 고치거나 지운 후에 블로깅을 시작하세요!</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://blueholeman.github.io/testwordpress1/2018/09/18/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
