@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://blueholeman.github.io/testwordpress1/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://blueholeman.github.io/testwordpress1/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="https://blueholeman.github.io/testwordpress1/feed/">https://blueholeman.github.io/testwordpress1/feed/</a></p>
+	</body>
+</html>
